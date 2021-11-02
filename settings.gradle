@@ -1,1 +1,1 @@
-include ':utility'
+rootProject.name = "interviewutils"
