@@ -24,4 +24,6 @@ allprojects {
         google()
         jcenter()
     }
+    group = 'julianpellico'
+    version = 'current'
 }
