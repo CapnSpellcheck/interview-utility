@@ -25,5 +25,5 @@ allprojects {
         jcenter()
     }
     group = 'julianpellico'
-    version = 'current'
+    version = 'curent'
 }
